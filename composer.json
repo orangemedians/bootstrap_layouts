@@ -3,6 +3,5 @@
   "description": "Drupal 8 layouts with configurable classes and titles, massage Layout Builder block list categories and titles.",
   "type": "drupal-custom-module",
   "homepage": "https://github.com/orangemedians/bootstrap_layouts",
-  "keywords": ["Drupal"],
-  "version": "1.0"
+  "keywords": ["Drupal"]
 }
